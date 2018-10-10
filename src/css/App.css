@@ -1,0 +1,44 @@
+
+/*upper and lower sections to set the colors and padding  */
+.upperSection{
+  padding: 110px 20px;
+  background-color:white;
+}
+
+.lowerSection{
+  color:white;
+  padding: 150px 20px;
+  background: linear-gradient(to bottom, #333 50%, #eee);
+}
+
+.imageToText{
+  display: flex;
+  justify-content: center; /* this center in y-axis*/
+  align-items: center; /* this centers in x-axis*/
+}
+
+.imageToText > .image{
+  margin-right: 50px;
+}
+
+.textToImage{
+  display:flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+
+.textToImage > .text{
+  margin-right: 50px;
+}
+
+/* setting the width to the largest width of the images*/
+.text{
+  max-width:530px;
+}
+
+/* in order to make the image repsonsive */
+.image{
+  max-width:100%;
+}

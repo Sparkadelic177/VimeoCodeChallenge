@@ -1,0 +1,34 @@
+.carousel-container{
+  position:relative;
+  width:100%;
+  height:530px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.slider{
+  display: inline-block;
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.left-arrow{
+  top:200px;
+  left:150px;
+}
+
+.right-arrow{
+  top:200px;
+  right:130px;
+}
+
+.arrow-style{
+  position:absolute;
+  color:white;
+}
+
+.arrow-style:hover{
+  color:lightblue;
+  cursor: pointer;
+}
