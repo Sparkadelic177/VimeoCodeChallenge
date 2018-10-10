@@ -1,5 +1,5 @@
 ## Vimeo Code Challenge
-This Front End layout is a [coding challenge](https://codepen.io/eric-smiling/pen/ozEQEQ) instructed to be completed by the people of Vimeo for their 2019 Front End Engineering Internship, Core Workflow.
+This Front End layout is a [coding challenge](https://codepen.io/eric-smiling/pen/ozEQEQ) instructed to be completed by the people of Vimeo for their Summer-2019 Front End Engineering Internship, Core Workflow.
 
 Simply just download the repo, then in the terminal type in 'npm install' to install all of the dependencies. After all of the dependencies have been installed, run 'npm start' in the terminal, and there you have it !
 
